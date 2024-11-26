@@ -4,7 +4,7 @@ import ProductList from './ProductList';
 import DataManager from './DataManager';
 import { Product } from './types';
 import { productService } from './productService';
-const saverData = false
+const saverData = true;
 
 const App = () => {
   const [products, setProducts] = useState<Product[]>([]);
