@@ -1,0 +1,19 @@
+
+{
+    "products": [
+        {
+        "id": "100",
+        "name": "Galaxy Black",
+        "imageUrl": "https://th.bing.com/th/id/OIP.moH26s5rdX8s6PJY47BXuwHaFj?rs=1&pid=ImgDetMain",
+        "sizes": [{
+            "size": "100x30",
+            "lotNumber" : "100"
+          },
+          {
+            "size": "101x30",
+            "lotNumber" : "101"
+          }
+        ]
+    }
+    ]
+}
